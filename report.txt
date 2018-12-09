@@ -1,0 +1,173 @@
+
+Motor1:
+The average current from 200s to 259s is 2.0amps.
+The average current from 610s to 639s is 6.0amps.
+The average current from 950s to 959s is 1.0amps.
+
+Motor2:
+The average current from 100s to 139s is 3.0amps.
+The average current from 210s to 239s is 6.0amps.
+The average current from 950s to 959s is 3.0amps.
+
+Motor3:
+The average current from 310s to 339s is 6.0amps.
+The average current from 550s to 559s is 3.0amps.
+
+Motor4:
+The motor is inactive for the whole time.
+
+Motor5:
+The average current from 210s to 239s is 6.0amps.
+The average current from 950s to 959s is 3.0amps.
+
+Motor6:
+Alert! Motor6 current exceeded at 250 second.
+Alert! Motor6 current exceeded at 251 second.
+Alert! Motor6 current exceeded at 252 second.
+Alert! Motor6 current exceeded at 253 second.
+Alert! Motor6 current exceeded at 254 second.
+Alert! Motor6 current exceeded at 255 second.
+Alert! Motor6 current exceeded at 256 second.
+Alert! Motor6 current exceeded at 257 second.
+Alert! Motor6 current exceeded at 258 second.
+Alert! Motor6 current exceeded at 259 second.
+Alert! Motor6 current exceeded at 260 second.
+Alert! Motor6 current exceeded at 261 second.
+Alert! Motor6 current exceeded at 262 second.
+Alert! Motor6 current exceeded at 263 second.
+Alert! Motor6 current exceeded at 264 second.
+Alert! Motor6 current exceeded at 265 second.
+Alert! Motor6 current exceeded at 266 second.
+Alert! Motor6 current exceeded at 267 second.
+Alert! Motor6 current exceeded at 268 second.
+Alert! Motor6 current exceeded at 269 second.
+Alert! Motor6 current exceeded at 270 second.
+Alert! Motor6 current exceeded at 271 second.
+Alert! Motor6 current exceeded at 272 second.
+Alert! Motor6 current exceeded at 273 second.
+Alert! Motor6 current exceeded at 274 second.
+Alert! Motor6 current exceeded at 275 second.
+Alert! Motor6 current exceeded at 276 second.
+Alert! Motor6 current exceeded at 277 second.
+Alert! Motor6 current exceeded at 278 second.
+Alert! Motor6 current exceeded at 279 second.
+Alert! Motor6 current exceeded at 280 second.
+Alert! Motor6 current exceeded at 281 second.
+Alert! Motor6 current exceeded at 282 second.
+Alert! Motor6 current exceeded at 283 second.
+Alert! Motor6 current exceeded at 284 second.
+Alert! Motor6 current exceeded at 285 second.
+Alert! Motor6 current exceeded at 286 second.
+Alert! Motor6 current exceeded at 287 second.
+Alert! Motor6 current exceeded at 288 second.
+Alert! Motor6 current exceeded at 289 second.
+Alert! Motor6 current exceeded at 290 second.
+Alert! Motor6 current exceeded at 291 second.
+Alert! Motor6 current exceeded at 292 second.
+Alert! Motor6 current exceeded at 293 second.
+Alert! Motor6 current exceeded at 294 second.
+Alert! Motor6 current exceeded at 295 second.
+Alert! Motor6 current exceeded at 296 second.
+Alert! Motor6 current exceeded at 297 second.
+Alert! Motor6 current exceeded at 298 second.
+Alert! Motor6 current exceeded at 299 second.
+Alert! Motor6 current exceeded at 300 second.
+Alert! Motor6 current exceeded at 301 second.
+Alert! Motor6 current exceeded at 302 second.
+Alert! Motor6 current exceeded at 303 second.
+Alert! Motor6 current exceeded at 304 second.
+Alert! Motor6 current exceeded at 305 second.
+Alert! Motor6 current exceeded at 306 second.
+Alert! Motor6 current exceeded at 307 second.
+Alert! Motor6 current exceeded at 308 second.
+Alert! Motor6 current exceeded at 309 second.
+Alert! Motor6 current exceeded at 310 second.
+Alert! Motor6 current exceeded at 311 second.
+Alert! Motor6 current exceeded at 312 second.
+Alert! Motor6 current exceeded at 313 second.
+Alert! Motor6 current exceeded at 314 second.
+Alert! Motor6 current exceeded at 315 second.
+Alert! Motor6 current exceeded at 316 second.
+Alert! Motor6 current exceeded at 317 second.
+Alert! Motor6 current exceeded at 318 second.
+Alert! Motor6 current exceeded at 319 second.
+Alert! Motor6 current exceeded at 320 second.
+Alert! Motor6 current exceeded at 321 second.
+Alert! Motor6 current exceeded at 322 second.
+Alert! Motor6 current exceeded at 323 second.
+Alert! Motor6 current exceeded at 324 second.
+Alert! Motor6 current exceeded at 325 second.
+Alert! Motor6 current exceeded at 326 second.
+Alert! Motor6 current exceeded at 327 second.
+Alert! Motor6 current exceeded at 328 second.
+Alert! Motor6 current exceeded at 329 second.
+Alert! Motor6 current exceeded at 330 second.
+Alert! Motor6 current exceeded at 331 second.
+Alert! Motor6 current exceeded at 332 second.
+Alert! Motor6 current exceeded at 333 second.
+Alert! Motor6 current exceeded at 334 second.
+Alert! Motor6 current exceeded at 335 second.
+Alert! Motor6 current exceeded at 336 second.
+Alert! Motor6 current exceeded at 337 second.
+Alert! Motor6 current exceeded at 338 second.
+Alert! Motor6 current exceeded at 339 second.
+Alert! Motor6 current exceeded at 340 second.
+Alert! Motor6 current exceeded at 341 second.
+Alert! Motor6 current exceeded at 342 second.
+Alert! Motor6 current exceeded at 343 second.
+Alert! Motor6 current exceeded at 344 second.
+Alert! Motor6 current exceeded at 345 second.
+Alert! Motor6 current exceeded at 346 second.
+Alert! Motor6 current exceeded at 347 second.
+Alert! Motor6 current exceeded at 348 second.
+Alert! Motor6 current exceeded at 349 second.
+Alert! Motor6 current exceeded at 350 second.
+Alert! Motor6 current exceeded at 351 second.
+Alert! Motor6 current exceeded at 352 second.
+Alert! Motor6 current exceeded at 353 second.
+Alert! Motor6 current exceeded at 354 second.
+Alert! Motor6 current exceeded at 355 second.
+Alert! Motor6 current exceeded at 356 second.
+Alert! Motor6 current exceeded at 357 second.
+Alert! Motor6 current exceeded at 358 second.
+Alert! Motor6 current exceeded at 359 second.
+The average current from 250s to 359s is 8.0amps.
+The average current from 650s to 759s is 3.0amps.
+
+Motor7:
+The average current from 100s to 139s is 3.0amps.
+Alert! Motor7 current exceeded at 210 second.
+Alert! Motor7 current exceeded at 211 second.
+Alert! Motor7 current exceeded at 212 second.
+Alert! Motor7 current exceeded at 213 second.
+Alert! Motor7 current exceeded at 214 second.
+Alert! Motor7 current exceeded at 215 second.
+Alert! Motor7 current exceeded at 216 second.
+Alert! Motor7 current exceeded at 217 second.
+Alert! Motor7 current exceeded at 218 second.
+Alert! Motor7 current exceeded at 219 second.
+Alert! Motor7 current exceeded at 220 second.
+Alert! Motor7 current exceeded at 221 second.
+Alert! Motor7 current exceeded at 222 second.
+Alert! Motor7 current exceeded at 223 second.
+Alert! Motor7 current exceeded at 224 second.
+Alert! Motor7 current exceeded at 225 second.
+Alert! Motor7 current exceeded at 226 second.
+Alert! Motor7 current exceeded at 227 second.
+Alert! Motor7 current exceeded at 228 second.
+Alert! Motor7 current exceeded at 229 second.
+Alert! Motor7 current exceeded at 230 second.
+Alert! Motor7 current exceeded at 231 second.
+Alert! Motor7 current exceeded at 232 second.
+Alert! Motor7 current exceeded at 233 second.
+Alert! Motor7 current exceeded at 234 second.
+Alert! Motor7 current exceeded at 235 second.
+Alert! Motor7 current exceeded at 236 second.
+Alert! Motor7 current exceeded at 237 second.
+Alert! Motor7 current exceeded at 238 second.
+Alert! Motor7 current exceeded at 239 second.
+The average current from 210s to 239s is 8.0amps.
+The average current from 950s to 959s is 3.0amps.
+
+Motor8:
+The motor is inactive for the whole time.
